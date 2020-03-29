@@ -1,0 +1,2 @@
+# asl_svm
+ASL image classifier. Support Vector Machine built using sklearn. Edges were extracted using OpenCV along with other image processing techniques. Achieved 97% accuracy in testing.
